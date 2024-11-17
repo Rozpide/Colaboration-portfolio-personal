@@ -57,3 +57,13 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+#img  {
+    size: 20%;
+    border-radius: 50%;
+}
+.imagen1 {
+    width:350px;
+    height: 350px;
+    border-radius:50%;
+}
